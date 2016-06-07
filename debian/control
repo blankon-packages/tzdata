@@ -3,7 +3,8 @@ Section: localization
 Priority: required
 Build-Depends: debhelper (>= 9)
 Build-Depends-Indep: po-debconf, rdfind, symlinks
-Maintainer: GNU Libc Maintainers <debian-glibc@lists.debian.org>
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+XSBC-Original-Maintainer: GNU Libc Maintainers <debian-glibc@lists.debian.org>
 Uploaders: Clint Adams <clint@debian.org>, Aurelien Jarno <aurel32@debian.org>, Adam Conrad <adconrad@0c3.net>
 Standards-Version: 3.9.7
 Homepage: http://www.iana.org/time-zones
